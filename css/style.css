@@ -40,7 +40,7 @@ body{
     transition: all 0.5s;
 }
 .btn1:hover{
-    background-color: #e6edff;
+    background-color: #dbc036;
     color: #303054;
 }
 
@@ -328,5 +328,5 @@ footer .social a img{
 }
 
 ::-webkit-scrollbar-thumb{
-    background: #303054;
+    background: #000000;
 }
